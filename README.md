@@ -28,14 +28,15 @@ Avant de commencer, assurez-vous que vous avez Python 3.7 ou une version plus r�
 
 Clonez ce dépôt sur votre machine locale avec la commande suivante :
 
-    ```bash
+    ``` bash
     git clone https://github.com/votre-utilisateur/text-summarization-streamlit.git
     cd text-summarization-streamlit
 
 Installer les dépendances
 Exécutez la commande suivante pour installer les dépendances nécessaires :
     
-    ```bash
+    ``` bash
+    
     pip install -r requirements.txt
     
 🚀 Lancer l'application
