@@ -17,7 +17,7 @@ Bienvenue dans l'application de **résumé automatique de texte** ! Cette applic
 ## 🎯 **Objectif du projet**
 
 Cette application a pour but de simplifier la création de résumés automatiques en utilisant des techniques avancées de traitement du langage naturel (NLP). Elle est idéale pour les utilisateurs qui doivent générer rapidement des résumés de rapports financiers, d'articles, ou tout autre contenu.
-## 🎯 **Aperçu**
+## **Aperçu**
 ![Aperçu de l'application](assets/capture_demo.png)
 ## 📦 **Installation**
 
