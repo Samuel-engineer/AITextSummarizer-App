@@ -27,7 +27,7 @@ Avant de commencer, assurez-vous que vous avez Python 3.7 ou une version plus r�
 ### Cloner le projet
 
 Clonez ce dépôt sur votre machine locale avec la commande suivante :
-
+    
     ``` bash
     git clone https://github.com/votre-utilisateur/text-summarization-streamlit.git
     cd text-summarization-streamlit
